@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width:100vw;
+  height: 100vh;
+  background-color:rgb(41, 58, 71)
+
+}
+
+.heading{
+  font-size: 2.5rem;
+  color: rgb(174, 118, 202);
+  margin-left:45px;
+}
+
